@@ -71,7 +71,10 @@ Aqui estão as ferramentas e linguagens que utilizo nos meus projetos:
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vitorpionto&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
+
 ---
+
+
 ### Contato
 <p align="left">
   <a href="https://www.linkedin.com/in/vitor-ps/" target="_blank">
