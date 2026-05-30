@@ -74,7 +74,6 @@ Aqui estão as ferramentas e linguagens que utilizo nos meus projetos:
 
 ---
 
-
 ### Contato
 <p align="left">
   <a href="https://www.linkedin.com/in/vitor-ps/" target="_blank">
