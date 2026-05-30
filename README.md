@@ -41,11 +41,10 @@ Aplicação voltada para consulta de condições de surf em tempo real
 
 ### Contato
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Vitor%20Pinto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-
-  <a href="https://www.instagram.com/vitorpsouza10">
-    <img src="https://img.shields.io/badge/Instagram-@SEU_INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/vitorpsouza10" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="48" />
   </a>
 </p>
