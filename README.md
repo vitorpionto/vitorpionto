@@ -41,7 +41,7 @@ Aplicação voltada para consulta de condições de surf em tempo real
 
 ### Contato
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/vitor-ps/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 <a href="https://www.instagram.com/vitorpsouza10" target="_blank">
