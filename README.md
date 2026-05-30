@@ -6,6 +6,8 @@
 
 📍 Duque de Caxias, Rio de Janeiro - Brasil
 
+---
+
 ## 🌊 Projeto em Destaque
 
 ### SurfRio
@@ -20,6 +22,8 @@ Organização e versionamento utilizando Git e GitHub
 
 Aplicação voltada para consulta de condições de surf em tempo real
 
+---
+
 ### 📚 Atualmente Estudando
 
 ● React.js
@@ -31,6 +35,8 @@ Aplicação voltada para consulta de condições de surf em tempo real
 ● AWS Cloud
 
 ● Boas práticas de desenvolvimento web
+
+---
 
 ## 🎯 Objetivo
 
@@ -54,6 +60,8 @@ Aqui estão as ferramentas e linguagens que utilizo nos meus projetos:
 </div>
 
 ---
+
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -63,7 +71,7 @@ Aqui estão as ferramentas e linguagens que utilizo nos meus projetos:
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vitorpionto&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
-
+---
 ### Contato
 <p align="left">
   <a href="https://www.linkedin.com/in/vitor-ps/" target="_blank">
