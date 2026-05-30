@@ -8,9 +8,9 @@
 
 ---
 
-## 🌊 Projeto em Destaque
+##  Projeto em Destaque
 
-### SurfRio
+###  🌊 SurfRio
 
 Aplicação web desenvolvida para análise das condições de surf no Rio de Janeiro.
 
