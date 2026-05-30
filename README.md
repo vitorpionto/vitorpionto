@@ -33,11 +33,13 @@ Aplicação voltada para consulta de condições de surf em tempo real
 ● Boas práticas de desenvolvimento web
 
 ### 📊 Estatísticas GitHub
+<div align="center">
+  <!-- Card de Estatísticas Gerais -->
+  <img height="180" src="[https://github-readme-stats.vercel.app/api?username=Lojs782&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=Lojs782&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)" alt="Estatísticas do GitHub de Vitor" />
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vitorpionto&show_icons=true&theme=tokyonight" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpionto&layout=compact&theme=tokyonight" />
-</p>
+### Tecnologias que mais uso
+  <img height="180" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Lojs782&layout=compact&theme=tokyonight&langs_count=6](https://github-readme-stats.vercel.app/api/top-langs/?username=Lojs782&layout=compact&theme=tokyonight&langs_count=6)" alt="Linguagens mais usadas por Vitor" />
+</div>  
 
 ### Contato
 <p align="left">
@@ -45,6 +47,4 @@ Aplicação voltada para consulta de condições de surf em tempo real
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 <a href="https://www.instagram.com/vitorpsouza10" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="48" />
-  </a>
-</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram
